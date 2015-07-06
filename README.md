@@ -1,4 +1,10 @@
-# Scala Play Learning
+# Scala/Play Learning
+
+## Installation
+
+Recommended **Activator**.
+
+* https://www.playframework.com/download
 
 ## HTML Template Engine
 
